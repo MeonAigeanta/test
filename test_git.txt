@@ -1,0 +1,7 @@
+This is a test.
+
+This is a new branch.
+
+This is a change.
+
+Change this file without saving.  Status says nothing to commit.
